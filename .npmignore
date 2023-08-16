@@ -1,0 +1,11 @@
+lib/*
+docs/
+tests/
+spec/
+node_modules/
+.project
+.vscode
+.nyc_output
+package.json
+jasmine.json
+tsconfig.json
